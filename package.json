@@ -1,0 +1,28 @@
+{
+  "name": "jengaWheel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/benjamina7/jengaWheel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benjamina7/jengaWheel/issues"
+  },
+  "homepage": "https://github.com/benjamina7/jengaWheel",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "bower": "^1.6.3",
+    "express": "^4.13.3",
+    "jade": "^1.11.0",
+    "mongoose": "^4.1.11",
+    "morgan": "^1.6.1",
+    "stylus": "^0.52.4"
+  }
+}
